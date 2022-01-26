@@ -1,16 +1,16 @@
 #AIR_DROP
 TIMER_SPAWN:
 - ''
-- ' §8▶ §6§lАИРДРОП §fприземлился'
-- ' §8▶ §fКоординаты: §a%2$s, %3$s, %4$s'
+- ' §6§l╔ §6§lАИРДРОП §fприземлился'
+- ' §6§l╚ §fКоординаты: §a%2$s, %3$s, %4$s'
 - ''
-APPROXIMATE_LOCATION: '§6§lАирДроп §8| §fПримерные координаты призимления: §a%1$s, §a%3$s'
+APPROXIMATE_LOCATION: '§6§lАирДроп§7: §fПримерные координаты призимления: §a%1$s, §a%3$s'
 LEAVE_RADIUS_ACTION_BAR: '§c§lВы покинули радиус, открытие отменено'
 OPEN_ACTION_BAR: '§a§lВы вскрыли сундук, забирайте вещи'
 #MORE_ITEMS
-MORE_ITEMS_COMMAND_USE: '§6§lПредметы §8| §fИспользование: §a/moreitems give ник название кол-во'
-MORE_ITEMS_ITEM_NOT_FOUND: '§6§lПредметы §8| §fПредмет с названием §c%s §fне найден'
-MORE_ITEMS_AMOUNT_NOT_CORRECT: '§6§lПредметы §8| §fКоличество введено §cневерно'
+MORE_ITEMS_COMMAND_USE: '§6§lПРЕДМЕТЫ§7: §fИспользование: §a/moreitems give ник название кол-во'
+MORE_ITEMS_ITEM_NOT_FOUND: '§6§lПРЕДМЕТЫ§7: §fПредмет с названием §c%s §fне найден'
+MORE_ITEMS_AMOUNT_NOT_CORRECT: '§6§lПРЕДМЕТЫ§7: §fКоличество введено §cневерно'
 #HALLOWEEN
 PUMPKIN_ENABLE_NAME: '§6§lНадеть тыкву §7(ПКМ)'
 PUMPKIN_ENABLE_LORE:
