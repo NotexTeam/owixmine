@@ -2661,7 +2661,6 @@ ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - §e▸ ЛКМ, чтобы принять запрос
 - §e▸ ПКМ, чтобы отклонить
 ISLAND_CLEAR_STATS_ERROR: '§6§lOWIX§e§lMINE§7: §fВы не можете очистить пустую статистику'
-  :/
 ISLAND_CLEAR_STATS_APPLY: '§6§lOWIX§e§lMINE§7: §fСтатистика очищена'
 ISLAND_CLEAR_STATS_NAME: Очистить статистику
 ISLAND_CLEAR_STATS_LORE:
