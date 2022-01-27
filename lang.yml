@@ -1328,7 +1328,7 @@ CONFIRMED_NAME: Подтвердить
 SHOP_FORMAT: /shop <название магазина>
 SHOP_NAMES: '§6§lМАГАЗИН§7: §fДоступные магазины: '
 SHOP_NOT_FOUND: §cОшибка, магазин %s не найден
-SHOP_ALL_ITEMS_SELLED: '§6§lМАГАЗИН§7: §fВы успешно продали §7%s §fx §7%s §fза §a%s$'
+SHOP_ALL_ITEMS_SELLED: §6§lМАГАЗИН§7 §fВы успешно продали §7%s §fx §7%s §fза §a%s$
 SHOP_ALL_ITEMS_BUY: '§6§lМАГАЗИН§7: §fВы успешно купили §7%s §fx §7%s §fза §a%s$'
 SKYBLOCK_SHOP_BLOCKS: Магазин блоков
 SKYBLOCK_SHOP_FARMING: Магазин фермерства
