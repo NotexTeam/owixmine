@@ -1249,7 +1249,7 @@ ONEBLOCK_BOARD_BALANCE_LINE: '   Баланс острова: §b'
 SHOP_SELL_NO_ITEMS: '§6§lМАГАЗИН§7: §fУ вас §cнет §fнеобходимых предметов'
 SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
-NO_PERMS_GROUP: §6§lOWIX§e§lMINE§7: §fДанная возможность доступна от привилегии %s
+NO_PERMS_GROUP: '§6§lOWIX§e§lMINE§7: §fДанная возможность доступна от привилегии %s'
 PROFILE_BACK_ITEM_LORE2:
 - ''
 -  §8▪ §fВернуться в предыдущее меню
