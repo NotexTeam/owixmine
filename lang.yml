@@ -2504,7 +2504,7 @@ ISLAND_MEMBER_BLOCKED: '§6§lOWIX§e§lMINE§7: §fВы были внесены
 ISLAND_COMMAND_REMOVE_FORMAT_NO_ARGS:
 - §6§lOWIX§e§lMINE§7: §fВведите §cник игрока §f- §a/island remove [ник]
 - §6§lOWIX§e§lMINE§7: §fДля удаления острова используйте §f- §a/island destroy
-ISLAND_REMOVED: '§6§lOWIX§e§lMINE§7: §fОстров успешно удален, вы были перемещены на спавн'
+ISLAND_REMOVED: §6§lOWIX§e§lMINE §fОстров успешно удален, вы были перемещены на спавн
 ISLAND_OPENED_GUI_NAME: Публичные острова
 ISLAND_OPENED_GUI_LORE:
 - ''
